@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "117184049609",
+    "firebase_url": "https://chatapplication-1b4b2.firebaseio.com",
+    "project_id": "chatapplication-1b4b2",
+    "storage_bucket": "chatapplication-1b4b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117184049609:android:3ca8fa076863140c9e3818",
+        "android_client_info": {
+          "package_name": "com.tarikonal.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117184049609-tv9hdq9f89rpv7f9bfm9qoftsohnnfm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlVpqbra9Nq4IKRnrBOM6DEHrnC6sEXOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117184049609-tv9hdq9f89rpv7f9bfm9qoftsohnnfm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
